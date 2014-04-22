@@ -3,15 +3,22 @@
 
 
 body {
-	background color: #F8F8F8;
+	color: #F2EFEF;
+	background-color: #21262C;
+}
+p {
+	width: 400px;
+	font-size: 12px;
+	line-height:18px;
 }
 
 h1	{
 	font-family: 'Oxygen', 'sans-serif';
-	color: #1F1F1F;
+	color: #F2EFEF;
 }
 h2 {
 	font-family: 'Lato', 'sans-serif';
+	color: #F2EFEF;
 }
 
 img {
